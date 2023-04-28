@@ -1,7 +1,2 @@
 # Rock-Paper-Scissors
-
-As an aspiring developer, i channel my passion for software development through my real life interests. 
-I play rock-paper-scissors everuday, be it for fun or religiously.
-I created this program as a fun way to test the random capabilities of the software system to allow a user to test its luck against the computer (Antagonist).
-
-In this project i used basic html to set up a front end interface for the project, coded in javascropt and styled with css.
+In this project, I created a web-based rock paper scissors game using JavaScript, CSS, and HTML. The game will be played by the user against the computer. The user will select their move by clicking on a button for rock, paper, or scissors, and the computer's move will be randomly generated. The winner of each round will be determined based on the rules of rock paper scissors (rock beats scissors, scissors beats paper, paper beats rock).
